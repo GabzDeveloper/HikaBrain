@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LyxizHika:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="BedwarsSkull.jar">
+      <element id="module-output" name="BedwarsSkull" />
+    </root>
+  </artifact>
+</component>
